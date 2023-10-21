@@ -1,0 +1,3 @@
+Why do programmers use dark mode?
+
+Because light attracts bugs. 
